@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+
+# Dataset (ÇOK BÜYÜK!)
+dataset/
+data/
+plantvillage dataset/
+Plant_leave_diseases_dataset_without_augmentation/
+
+# Model dosyaları (BÜYÜK)
+*.keras
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Arşiv
+results/archive/
+
+# Loglar
+*.log
+
+# Geçici
+*.zip
+*.tar.gz
