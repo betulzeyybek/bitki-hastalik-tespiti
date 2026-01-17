@@ -8,13 +8,13 @@ venv/
 env/
 .venv
 
-# Dataset (ÇOK BÜYÜK!)
+# Dataset 
 dataset/
 data/
 plantvillage dataset/
 Plant_leave_diseases_dataset_without_augmentation/
 
-# Model dosyaları (BÜYÜK)
+# Model dosyaları
 *.keras
 *.h5
 *.pt
