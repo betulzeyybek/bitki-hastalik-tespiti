@@ -1,9 +1,3 @@
-"""
-ADIM 2: GELİŞTİRİLMİŞ MODEL EĞİTİMİ (CLASS WEIGHTS DESTEKLİ) - v2.1
------------------------------------------------------------
-IndentationError (girintileme hatası) ve IndexError giderilmiş tam sürüm.
-"""
-
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
