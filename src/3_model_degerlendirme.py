@@ -1,13 +1,4 @@
-"""
-ADIM 3: MODEL DEĞERLENDİRME VE CONFUSION MATRIX
-------------------------------------------------
-Test seti üzerinde modelleri değerlendirir:
-1. Test accuracy, loss
-2. Confusion Matrix
-3. Precision, Recall, F1-Score
-4. Sınıf bazlı performans
-5. Final karşılaştırma grafikleri
-"""
+
 
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
